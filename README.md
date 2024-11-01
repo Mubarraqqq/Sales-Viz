@@ -2,9 +2,8 @@
 # Adventure Works Sales Analysis
 **Presented by: Mubaraq Onipede**
 
-- View presentation in the Attached [pdf](https://github.com/TuringCollegeSubmissions/monipe-CAR.PIB.2.3/blob/main/Mubaraq%20Turing%20PowerBi%20Dashoboard.pdf)
-- View PowerBI dashboard in the Attached [pdf](https://github.com/TuringCollegeSubmissions/monipe-CAR.PIB.2.3/blob/main/Turing.pdf
-)
+- View presentation in the Attached [pdf](https://github.com/Mubarraqqq/Sales-Viz/blob/main/Stakeholders%20Presentation.pdf)
+- View PowerBI dashboard in the Attached [pdf](https://github.com/Mubarraqqq/Sales-Viz/blob/main/PowerBI%20Dashboard.pdf)
 ## Outline
 1. Problem Statement
 2. Objectives
