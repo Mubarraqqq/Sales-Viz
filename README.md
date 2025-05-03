@@ -2,8 +2,8 @@
 # Adventure Works Sales Analysis
 **Presented by: Mubaraq Onipede**
 
-- View presentation in the Attached [pdf](https://github.com/Mubarraqqq/Sales-Viz/blob/main/Stakeholders%20Presentation.pdf)
-- View PowerBI dashboard in the Attached [pdf](https://github.com/Mubarraqqq/Sales-Viz/blob/main/PowerBI%20Dashboard.pdf)
+- View/Download presentation in the Attached [pdf](https://github.com/Mubarraqqq/Sales-Viz/blob/main/Stakeholders%20Presentation.pdf)
+- View/Download PowerBI dashboard in the Attached [pdf](https://github.com/Mubarraqqq/Sales-Viz/blob/main/PowerBI%20Dashboard.pdf)
 ## Outline
 1. Problem Statement
 2. Objectives
